@@ -1,5 +1,4 @@
 # novaflow
-NovaFlow
 
 NovaFlow is a futuristic single-page website for a cutting-edge AI workflow automation platform. Designed with a sleek black and blue aesthetic, NovaFlow features a custom animated cursor, a futuristic navigation bar, dynamic feature cards, pricing plans, an FAQ section, testimonials, and a contact section with social media links.
 
